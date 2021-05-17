@@ -1,6 +1,6 @@
+# Whive Cpu-miner for MacOs
 
-
-# Build for Whive Cpu-miner for MacOs
+# Build
 
 ### MacOS
 Run the following commands in your mac terminal:
