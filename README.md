@@ -8,6 +8,12 @@ Run the following commands in your mac terminal:
 
 $ git clone https://github.com/xyephy/cpuminer-mc-yespower.git 
 
+$ brew install curl
+
+$ brew install autoconf
+
+$ brew install automake
+
 $ cd cpuminer-mc-yespower 
 
 $ ./autogen.sh
