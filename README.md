@@ -14,7 +14,7 @@ $ brew install autoconf
 
 $ brew install automake
 
-$ cd cpuminer-mc-yespower 
+$ cd MacOS-cpuminer-mc-yespower 
 
 $ ./autogen.sh
 
