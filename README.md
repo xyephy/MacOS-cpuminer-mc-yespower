@@ -6,7 +6,7 @@
 Run the following commands in your mac terminal:
 ```bash
 
-$ git clone https://github.com/xyephy/cpuminer-mc-yespower.git 
+$ git clone https://github.com/xyephy/MacOS-cpuminer-mc-yespower.git 
 
 $ brew install curl
 
